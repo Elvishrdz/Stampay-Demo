@@ -9,6 +9,8 @@ This demo implements:
 - Glide
 - Use of Constraint Layout (only)
 - RecyclerView, CardView.
+- Kotlin Language
+- Git (Github)
 
 All was done in 4 hours (you can check the branches with all my work step by step)
 
