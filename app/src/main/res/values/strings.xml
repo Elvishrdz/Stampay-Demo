@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Stampay Demo</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_campaings">Campaings</string>
+    <string name="title_partner">Partner</string>
+    <string name="title_profile">Profile</string>
+    <string name="campaing_sample_title"><![CDATA[Kaffee & Kuchen 8+1]]></string>
+    <string name="campaing_sample_subtitle">Tante Emma Café - Augsburg</string>
+    <string name="campaing_sample_stars">0/8</string>
+    <string name="campaing_sample_gift">0</string>
 </resources>

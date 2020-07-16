@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.eahm.stampaydemo.ui.home.HomeFragment"
-        android:label="@string/title_home"
-        tools:layout="@layout/fragment_home" />
+        android:name="com.eahm.stampaydemo.ui.Campaings.CampaingsFragment"
+        android:label="@string/title_campaings"
+        tools:layout="@layout/fragment_campaings" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
         android:name="com.eahm.stampaydemo.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:label="@string/title_partner"
+        tools:layout="@layout/fragment_partner" />
 
     <fragment
         android:id="@+id/navigation_notifications"
         android:name="com.eahm.stampaydemo.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
