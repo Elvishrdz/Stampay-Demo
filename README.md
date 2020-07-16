@@ -13,7 +13,7 @@ This demo implements:
 - Git (Github)
 
 All was done in 4 hours (you can check the branches with all my work step by step)
-
+(Firebase is not implemented but can be integrated)
 
 ![](stampay-kleine-demo01.gif)
 ![](stampay-kleine-demo02.gif)
