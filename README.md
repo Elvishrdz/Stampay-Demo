@@ -5,7 +5,8 @@ This demo implements:
 - Launch Screen
 - ViewModel (Jetpack)
 - LiveData (Jetpack | Data persistance)
-- Bottom Navigation (Jetpack)
+- Navigation (Jetpack)
+- Bottom Navigation (Material Design)
 - Dependency Injection (Dagger2)
 - Glide
 - Use of Constraint Layout (only)
