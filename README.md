@@ -1,5 +1,5 @@
 # Stampay-Demo
-This is a repository to show some of my skills to apply for a position in Stampay as Junior Android Developer (Ich freue mich auf das!)
+This repository is to show some of my skills. This clone of the StampayApp (Germany) was developed in less than 4 hours (creating and obtaing the assets, adding dependencies, programming (in kotlin), etc.
 
 This demo implements:
 - Launch Screen
