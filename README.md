@@ -4,6 +4,7 @@ This repository is to show some of my skills. This clone of the StampayApp (Germ
 This demo implements:
 - Launch Screen
 - ViewModel (Jetpack)
+- LiveData (Jetpack | Data persistance)
 - Bottom Navigation (Jetpack)
 - Dependency Injection (Dagger2)
 - Glide
