@@ -1,4 +1,5 @@
 # Stampay-Demo
+* NOTE: Check the branches for each developing step.
 This repository is to show some of my skills. This clone of the StampayApp (Germany) was developed in less than 4 hours (creating and obtaing the assets, adding dependencies, programming (in kotlin), etc.
 
 This demo implements:
